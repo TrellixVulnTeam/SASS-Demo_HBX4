@@ -1,2 +1,5 @@
-# SASS-Demo
+# SASS-DEMO
+
+## Description
+
 This is a demo project for learning SCSS.

@@ -1,4 +1,4 @@
-# SASS-DEMO
+# SCSS-DEMO
 
 ## Description
 
